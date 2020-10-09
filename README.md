@@ -36,6 +36,12 @@ MIT (c) 2020 Nima Mahmoudi & Hamzeh Khazaei
 You can find the paper with details of the proposed model in [PACS lab website](https://pacs.eecs.yorku.ca/publications/). You can use the following bibtex entry:
 
 ```bib
-Coming soon...
+@inproceedings{mahmoudi2020tempperf,
+  title={{Temporal Performance Modelling of Serverless Computing Platforms}},
+  author={Mahmoudi, Nima and Khazaei, Hamzeh},
+  booktitle={{Proceedings of the 6th International Workshop on Serverless Computing}},
+  pages={1--6},
+  year={2020}
+}
 ```
 
