@@ -1,7 +1,7 @@
 # Temporal Performance Modelling of Serverless Computing Platforms
 
 This repository includes all artifacts for our paper "Temporal Performance Modelling of Serverless Computing Platforms" presented in the [Sixth International Workshop on Serverless Computing (WoSC6) 2020
-](https://www.serverlesscomputing.org/wosc6/cfp/). The performance model presented in our work is capable of predicting several key performance indicators of serverless computing platforms, while maintaining fidelity and tractabality thoughout the parameter space.
+](https://www.serverlesscomputing.org/wosc6/). The performance model presented in our work is capable of predicting several key performance indicators of serverless computing platforms, while maintaining fidelity and tractabality thoughout the parameter space.
 
 ## Benefits
 
