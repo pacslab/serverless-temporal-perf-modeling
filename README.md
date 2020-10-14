@@ -37,11 +37,17 @@ You can find the paper with details of the proposed model in [PACS lab website](
 
 ```bib
 @inproceedings{mahmoudi2020tempperf,
-  title={{Temporal Performance Modelling of Serverless Computing Platforms}},
   author={Mahmoudi, Nima and Khazaei, Hamzeh},
+  title={{Temporal Performance Modelling of Serverless Computing Platforms}},
+  year={2020},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
   booktitle={{Proceedings of the 6th International Workshop on Serverless Computing}},
   pages={1--6},
-  year={2020}
+  numpages = {6},
+  keywords = {performance modelling, serverless computing, serverless, temporal, transient, performance},
+  location = {TU Delft, Netherlands},
+  series = {WOSC '20}
 }
 ```
 
