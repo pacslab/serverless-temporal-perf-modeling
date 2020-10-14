@@ -41,7 +41,6 @@ You can find the paper with details of the proposed model in [PACS lab website](
   title={{Temporal Performance Modelling of Serverless Computing Platforms}},
   year={2020},
   publisher = {Association for Computing Machinery},
-  address = {New York, NY, USA},
   booktitle={{Proceedings of the 6th International Workshop on Serverless Computing}},
   pages={1--6},
   numpages = {6},
